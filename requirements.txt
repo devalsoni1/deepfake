@@ -1,0 +1,5 @@
+gradio==5.13.0
+fastapi>=0.110.0
+pydantic==2.10.6
+numpy<2.0
+torch
